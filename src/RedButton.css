@@ -1,0 +1,17 @@
+.RedButton {
+  background-color: rgb(212, 168, 22);
+  color: white;
+  padding: 10px 15px;
+  font-size: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  border-radius: 10px;
+  box-shadow: 0 0 20px yellow;
+  border: 1px solid rgb(149, 187, 13);
+}
+.RedButton:hover {
+  background-color: tomato;
+  color: brown;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  box-shadow: 0 0 20px red;
+  border: 1px solid red;
+}
